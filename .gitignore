@@ -1,0 +1,20 @@
+target/
+*/target/
+*/target-ide/
+.settings/
+*/.settings/
+*.class
+*/.classpath
+*.project
+
+
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# archivos ocultos
+*~
+*.swp
+*.log
